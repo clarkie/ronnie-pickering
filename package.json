@@ -1,9 +1,11 @@
 {
   "name": "ronnie-pickering",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A reason to play with generators",
   "repository": "git://github.com/clarkie/ronnie-pickering",
-  "bugs": { "url" : "https://github.com/clarkie/ronnie-pickering/issues"},
+  "bugs": {
+    "url": "https://github.com/clarkie/ronnie-pickering/issues"
+  },
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
