@@ -2,6 +2,8 @@
   "name": "ronnie-pickering",
   "version": "1.0.1",
   "description": "A reason to play with generators",
+  "repository": "git://github.com/clarkie/ronnie-pickering",
+  "bugs": { "url" : "https://github.com/clarkie/ronnie-pickering/issues"},
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -10,5 +12,10 @@
     "node": ">=4"
   },
   "author": "Clarkie <andrew.t.clarke@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": [
+    "ronnie",
+    "pickering",
+    "pointless"
+  ]
 }
