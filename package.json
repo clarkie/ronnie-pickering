@@ -1,11 +1,12 @@
 {
   "name": "ronnie-pickering",
   "version": "1.0.0",
-  "description": "",
+  "description": "A reason to play with generators",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
-  "author": "",
-  "license": "ISC"
+  "engines" : { "node" : ">=4" },
+  "author": "Clarkie <andrew.t.clarke@gmail.com>",
+  "license": "MIT"
 }
